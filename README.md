@@ -4,4 +4,4 @@
 이 봇 덕분에 전 무난한 SRT 생활을 할 수 있게 되었습니다.    
 .   
 .   
-This bot notifies you by Slack when your SRT seat is available ~
+This bot notifies you when your SRT seat is available by Slack  ~
